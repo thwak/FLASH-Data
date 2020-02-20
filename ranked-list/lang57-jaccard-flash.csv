@@ -1,0 +1,7 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.lang.LocaleUtils#223,1.0,0.5411590992986341,7330,13545
+org.apache.commons.lang.LocaleUtils#52,1.0,0.2589073634204275,218,842
+org.apache.commons.lang.LocaleUtils#51,1.0,0.1362810417928528,225,1651
+org.apache.commons.lang.LocaleUtils#47,1.0,0.0,0,0
+org.apache.commons.lang.LocaleUtils#49,1.0,0.0,0,0
+org.apache.commons.lang.LocaleUtils#53,1.0,0.0,0,0

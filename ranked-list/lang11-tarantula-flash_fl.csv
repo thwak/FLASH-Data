@@ -1,0 +1,12 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.lang3.RandomStringUtils#253,0.7142857142857143,2.1018710804075753,3985,7872
+org.apache.commons.lang3.RandomStringUtils#163,0.625,2.2469209819699216,7330,13545
+org.apache.commons.lang3.RandomStringUtils#252,0.625,0.7042566896034799,345,2034
+org.apache.commons.lang3.RandomStringUtils#250,0.625,0.5190065603816949,82,656
+org.apache.commons.lang3.RandomStringUtils#247,0.625,0.39594314915716927,74,776
+org.apache.commons.lang3.RandomStringUtils#234,0.625,0.31067805292778383,107,1430
+org.apache.commons.lang3.RandomStringUtils#248,0.625,0.2523346812905478,22,362
+org.apache.commons.lang3.RandomStringUtils#225,0.5555555555555556,0.5240454590261775,364,2884
+org.apache.commons.lang3.RandomStringUtils#230,0.5555555555555556,0.2695351356613908,89,1371
+org.apache.commons.lang3.RandomStringUtils#227,0.5555555555555556,0.0,0,1
+org.apache.commons.lang3.RandomStringUtils#43,-2.0,0.0,0,0

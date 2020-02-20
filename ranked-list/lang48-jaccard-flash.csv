@@ -1,0 +1,13 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.lang.builder.EqualsBuilder#372,0.0625,0.5411590992986341,7330,13545
+org.apache.commons.lang.builder.EqualsBuilder#381,0.05,0.506224593495935,3985,7872
+org.apache.commons.lang.builder.EqualsBuilder#379,0.021739130434782608,0.2007269789983845,497,2476
+org.apache.commons.lang.builder.EqualsBuilder#374,0.021739130434782608,0.13343108504398826,273,2046
+org.apache.commons.lang.builder.EqualsBuilder#408,0.021739130434782608,0.12754835337166753,976,7652
+org.apache.commons.lang.builder.EqualsBuilder#368,0.021739130434782608,0.1262135922330097,364,2884
+org.apache.commons.lang.builder.EqualsBuilder#378,0.021739130434782608,0.08024275118004046,119,1483
+org.apache.commons.lang.builder.EqualsBuilder#371,0.021739130434782608,0.06491611962071481,89,1371
+org.apache.commons.lang.builder.EqualsBuilder#831,0.016129032258064516,0.5411590992986341,7330,13545
+org.apache.commons.lang.builder.EqualsBuilder#92,0.015873015873015872,0.0,0,0
+org.apache.commons.lang.builder.EqualsBuilder#100,0.015873015873015872,0.0,0,0
+org.apache.commons.lang.builder.EqualsBuilder#102,0.015873015873015872,0.0,0,0

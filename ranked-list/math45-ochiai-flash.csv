@@ -1,0 +1,11 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.math.linear.OpenMapRealMatrix#52,0.1796053020267749,0.26100998238402817,889,3406
+org.apache.commons.math.linear.OpenMapRealMatrix#50,0.1796053020267749,0.14686468646864687,89,606
+org.apache.commons.math.linear.OpenMapRealMatrix#49,0.1796053020267749,0.11378353376503238,123,1081
+org.apache.commons.math.linear.OpenMapRealMatrix#51,0.1796053020267749,0.07823470411233702,78,997
+org.apache.commons.math.linear.OpenMapRealMatrix#53,0.1796053020267749,0.0,0,0
+org.apache.commons.math.linear.AbstractRealMatrix#57,0.062136976600120006,0.22470674486803519,613,2728
+org.apache.commons.math.linear.AbstractRealMatrix#60,0.062136976600120006,0.0,0,0
+org.apache.commons.math.linear.AbstractRealMatrix#54,0.062017367294604234,0.15961199294532627,362,2268
+org.apache.commons.math.linear.AbstractRealMatrix#53,0.062017367294604234,0.0,0,0
+org.apache.commons.math.linear.RealLinearOperator#52,0.056077215409204434,0.0,0,0

@@ -1,0 +1,12 @@
+Line,BeforeContext,DefaultContext,AfterContext,jaccard,tarantula,ochiai,dstar
+org.jfree.chart.renderer.GrayPaintScale#124,357,957,959,1.0000,1.0000,1.0000,Infinity
+org.jfree.chart.renderer.GrayPaintScale#125,959,8693,8694,1.0000,1.0000,1.0000,Infinity
+org.jfree.chart.renderer.GrayPaintScale#126,8694,8692,2271,1.0000,1.0000,1.0000,Infinity
+org.jfree.chart.renderer.GrayPaintScale#128,2271,2272,179,1.0000,1.0000,1.0000,Infinity
+org.jfree.chart.renderer.GrayPaintScale#72,196,195,197,0.1111,0.5294,0.3333,0.1250
+org.jfree.chart.renderer.GrayPaintScale#73,-1,-1,-1,0.1111,0.5294,0.3333,0.1250
+org.jfree.chart.renderer.GrayPaintScale#84,-1,-1,-1,0.1000,0.5000,0.3162,0.1111
+org.jfree.chart.renderer.GrayPaintScale#85,82,81,84,0.1000,0.5000,0.3162,0.1111
+org.jfree.chart.renderer.GrayPaintScale#89,84,83,80,0.1000,0.5000,0.3162,0.1111
+org.jfree.chart.renderer.GrayPaintScale#90,80,67,13,0.1000,0.5000,0.3162,0.1111
+org.jfree.chart.renderer.GrayPaintScale#91,-1,-1,-1,0.1000,0.5000,0.3162,0.1111

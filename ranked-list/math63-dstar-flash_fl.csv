@@ -1,0 +1,11 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.math.util.MathUtils#530,Infinity,2.4732277345773466,4863,8164
+org.apache.commons.math.util.MathUtils#417,Infinity,2.2469209819699216,7330,13545
+org.apache.commons.math.util.MathUtils#524,Infinity,2.2469209819699216,7330,13545
+org.apache.commons.math.util.MathUtils#527,Infinity,2.2469209819699216,7330,13545
+org.apache.commons.math.util.MathUtils#526,Infinity,1.9376244920916612,14,30
+org.apache.commons.math.util.MathUtils#529,Infinity,1.2019099293049778,33,114
+org.apache.commons.math.util.MathUtils#534,Infinity,0.5313256015465856,124,969
+org.apache.commons.math.util.MathUtils#523,Infinity,0.41088019363550854,171,1728
+org.apache.commons.math.util.MathUtils#33,-439.0,0.0,0,0
+org.apache.commons.math.util.MathUtils#75,-439.0,0.0,0,0

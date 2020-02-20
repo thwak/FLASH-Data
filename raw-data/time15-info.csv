@@ -1,0 +1,8 @@
+Line,BeforeContext,DefaultContext,AfterContext,jaccard,tarantula,ochiai,dstar
+org.joda.time.field.FieldUtils#136,11718,11717,11720,0.0192,0.9816,0.1387,0.0196
+org.joda.time.field.FieldUtils#138,-1,-1,-1,0.0769,0.9956,0.2774,0.0833
+org.joda.time.field.FieldUtils#140,-1,-1,-1,1.0000,1.0000,1.0000,Infinity
+org.joda.time.field.FieldUtils#142,-1,-1,-1,0.0385,0.9909,0.1961,0.0400
+org.joda.time.field.FieldUtils#144,11720,-1,-1,0.0370,0.9905,0.1925,0.0385
+org.joda.time.field.FieldUtils#145,-1,-1,114,0.0370,0.9905,0.1925,0.0385
+org.joda.time.field.FieldUtils#148,114,113,103,0.0370,0.9905,0.1925,0.0385

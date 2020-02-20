@@ -1,0 +1,13 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.lang.text.StrBuilder#884,0.9890710382513661,0.5260479213129754,9199,17487
+org.apache.commons.lang.text.StrBuilder#879,0.9890710382513661,0.40319258496395466,783,1942
+org.apache.commons.lang.text.StrBuilder#880,0.9890710382513661,0.13891726251276812,272,1958
+org.apache.commons.lang.text.StrBuilder#881,0.9890710382513661,0.10088148873653281,103,1021
+org.apache.commons.lang.text.StrBuilder#883,0.9890710382513661,0.08458646616541353,45,532
+org.apache.commons.lang.text.StrBuilder#882,0.9890710382513661,0.06140350877192982,56,912
+org.apache.commons.lang.text.StrBuilder#107,0.5915032679738562,0.1689497716894977,37,219
+org.apache.commons.lang.text.StrBuilder#111,0.5915032679738562,0.10271041369472182,72,701
+org.apache.commons.lang.text.StrBuilder#108,0.5915032679738562,0.01694915254237288,1,59
+org.apache.commons.lang.text.StrBuilder#112,0.5915032679738562,0.0,0,0
+org.apache.commons.lang.text.StrBuilder#228,0.5127478753541076,0.40319258496395466,783,1942
+org.apache.commons.lang.text.StrBuilder#233,0.5127478753541076,0.13870205417196874,763,5501

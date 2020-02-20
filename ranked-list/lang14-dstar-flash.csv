@@ -1,0 +1,6 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.lang3.StringUtils#783,0.0625,0.5411590992986341,7330,13545
+org.apache.commons.lang3.StringUtils#785,0.0625,0.24861878453038674,360,1448
+org.apache.commons.lang3.StringUtils#782,0.0625,0.1227364185110664,244,1988
+org.apache.commons.lang3.StringUtils#788,0.0625,0.1136085626911315,743,6540
+org.apache.commons.lang3.StringUtils#148,0.003205128205128205,0.0,0,0

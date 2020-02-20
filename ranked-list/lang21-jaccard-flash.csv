@@ -1,0 +1,5 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.lang3.time.DateUtils#259,1.0,0.40319258496395466,783,1942
+org.apache.commons.lang3.time.DateUtils#262,1.0,0.13870205417196874,763,5501
+org.apache.commons.lang3.time.DateUtils#60,0.009174311926605505,0.0,0,0
+org.apache.commons.lang3.time.DateUtils#88,0.009174311926605505,0.0,0,0

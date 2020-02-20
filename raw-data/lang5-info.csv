@@ -1,0 +1,17 @@
+Line,BeforeContext,DefaultContext,AfterContext,jaccard,tarantula,ochiai,dstar
+org.apache.commons.lang3.LocaleUtils#193,15,14,16,0.0769,0.5000,0.2774,0.0833
+org.apache.commons.lang3.LocaleUtils#218,15,14,16,0.0769,0.5000,0.2774,0.0833
+org.apache.commons.lang3.LocaleUtils#288,-1,-1,-1,0.0769,0.5000,0.2774,0.0833
+org.apache.commons.lang3.LocaleUtils#295,357,503,505,0.0769,0.5000,0.2774,0.0833
+org.apache.commons.lang3.LocaleUtils#296,505,805,807,0.0769,0.5000,0.2774,0.0833
+org.apache.commons.lang3.LocaleUtils#297,807,806,13,0.0769,0.5000,0.2774,0.0833
+org.apache.commons.lang3.LocaleUtils#298,-1,-1,-1,0.0769,0.5000,0.2774,0.0833
+org.apache.commons.lang3.LocaleUtils#42,-1,-1,-1,0.0769,0.5000,0.2774,0.0833
+org.apache.commons.lang3.LocaleUtils#46,-1,-1,-1,0.0769,0.5000,0.2774,0.0833
+org.apache.commons.lang3.LocaleUtils#89,41,520,517,0.2000,0.7500,0.4472,0.2500
+org.apache.commons.lang3.LocaleUtils#92,517,836,835,0.2000,0.7500,0.4472,0.2500
+org.apache.commons.lang3.LocaleUtils#93,835,1007,627,0.2000,0.7500,0.4472,0.2500
+org.apache.commons.lang3.LocaleUtils#96,627,783,422,0.2000,0.7500,0.4472,0.2500
+org.apache.commons.lang3.LocaleUtils#97,422,1009,536,0.2000,0.7500,0.4472,0.2500
+org.apache.commons.lang3.LocaleUtils#98,536,721,723,0.2000,0.7500,0.4472,0.2500
+org.apache.commons.lang3.LocaleUtils#99,1,0,2,0.3333,0.8571,0.5774,0.5000

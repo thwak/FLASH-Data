@@ -1,0 +1,7 @@
+Line,BeforeContext,DefaultContext,AfterContext,jaccard,tarantula,ochiai,dstar
+org.apache.commons.lang.LocaleUtils#223,15,14,16,1.0000,1.0000,1.0000,Infinity
+org.apache.commons.lang.LocaleUtils#47,-1,-1,-1,1.0000,1.0000,1.0000,Infinity
+org.apache.commons.lang.LocaleUtils#49,-1,-1,-1,1.0000,1.0000,1.0000,Infinity
+org.apache.commons.lang.LocaleUtils#51,357,355,359,1.0000,1.0000,1.0000,Infinity
+org.apache.commons.lang.LocaleUtils#52,359,358,360,1.0000,1.0000,1.0000,Infinity
+org.apache.commons.lang.LocaleUtils#53,-1,-1,-1,1.0000,1.0000,1.0000,Infinity

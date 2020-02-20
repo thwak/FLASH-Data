@@ -1,0 +1,5 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.math.stat.Frequency#110,0.5,2.1841785778927028,9199,17487
+org.apache.commons.math.stat.Frequency#58,0.14285714285714285,2.1018710804075753,3985,7872
+org.apache.commons.math.stat.Frequency#57,-7.0,0.0,0,0
+org.apache.commons.math.stat.Frequency#59,-7.0,0.0,0,0

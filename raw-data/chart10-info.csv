@@ -1,0 +1,4 @@
+Line,BeforeContext,DefaultContext,AfterContext,jaccard,tarantula,ochiai,dstar
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator#54,65,64,66,1.0000,1.0000,1.0000,Infinity
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator#55,-1,-1,-1,1.0000,1.0000,1.0000,Infinity
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator#65,15,14,16,1.0000,1.0000,1.0000,Infinity

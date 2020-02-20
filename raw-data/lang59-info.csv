@@ -1,0 +1,13 @@
+Line,BeforeContext,DefaultContext,AfterContext,jaccard,tarantula,ochiai,dstar
+org.apache.commons.lang.text.StrBuilder#107,375,410,425,0.0079,0.5915,0.0891,0.0080
+org.apache.commons.lang.text.StrBuilder#108,425,424,427,0.0079,0.5915,0.0891,0.0080
+org.apache.commons.lang.text.StrBuilder#111,427,426,428,0.0079,0.5915,0.0891,0.0080
+org.apache.commons.lang.text.StrBuilder#112,-1,-1,-1,0.0079,0.5915,0.0891,0.0080
+org.apache.commons.lang.text.StrBuilder#228,99,100,102,0.0058,0.5127,0.0760,0.0058
+org.apache.commons.lang.text.StrBuilder#233,102,101,103,0.0058,0.5127,0.0760,0.0058
+org.apache.commons.lang.text.StrBuilder#879,99,100,102,0.3333,0.9891,0.5774,0.5000
+org.apache.commons.lang.text.StrBuilder#880,472,1122,1124,0.3333,0.9891,0.5774,0.5000
+org.apache.commons.lang.text.StrBuilder#881,1124,1246,1245,0.3333,0.9891,0.5774,0.5000
+org.apache.commons.lang.text.StrBuilder#882,1245,1247,870,0.3333,0.9891,0.5774,0.5000
+org.apache.commons.lang.text.StrBuilder#883,870,1248,1250,0.3333,0.9891,0.5774,0.5000
+org.apache.commons.lang.text.StrBuilder#884,128,120,122,0.3333,0.9891,0.5774,0.5000

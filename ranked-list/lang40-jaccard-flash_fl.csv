@@ -1,0 +1,5 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.lang.StringUtils#1045,0.5,1.6740767735483715,783,1942
+org.apache.commons.lang.StringUtils#1048,0.5,0.5758982084293521,763,5501
+org.apache.commons.lang.StringUtils#1018,0.3333333333333333,0.5758982084293521,763,5501
+org.apache.commons.lang.StringUtils#1015,0.25,1.6740767735483715,783,1942

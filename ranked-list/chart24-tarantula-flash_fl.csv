@@ -1,0 +1,12 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.jfree.chart.renderer.GrayPaintScale#126,1.0,1.9030240547328816,11,24
+org.jfree.chart.renderer.GrayPaintScale#125,1.0,0.5896405893093812,24,169
+org.jfree.chart.renderer.GrayPaintScale#128,1.0,0.4825708424141812,149,1282
+org.jfree.chart.renderer.GrayPaintScale#124,1.0,0.3703834794191281,138,1547
+org.jfree.chart.renderer.GrayPaintScale#72,0.5294117647058824,2.475478445180984,220,369
+org.jfree.chart.renderer.GrayPaintScale#90,0.5,1.0439446243106092,528,2100
+org.jfree.chart.renderer.GrayPaintScale#85,0.5,0.41691861246617584,73,727
+org.jfree.chart.renderer.GrayPaintScale#89,0.5,0.3841756745885856,26,281
+org.jfree.chart.renderer.GrayPaintScale#73,-1.8888888888888888,0.0,0,0
+org.jfree.chart.renderer.GrayPaintScale#84,-2.0,0.0,0,0
+org.jfree.chart.renderer.GrayPaintScale#91,-2.0,0.0,0,0

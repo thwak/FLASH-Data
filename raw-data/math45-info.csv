@@ -1,0 +1,11 @@
+Line,BeforeContext,DefaultContext,AfterContext,jaccard,tarantula,ochiai,dstar
+org.apache.commons.math.linear.AbstractRealMatrix#53,-1,-1,-1,0.0038,0.6252,0.0620,0.0039
+org.apache.commons.math.linear.AbstractRealMatrix#54,76,255,258,0.0038,0.6252,0.0620,0.0039
+org.apache.commons.math.linear.AbstractRealMatrix#57,258,257,53,0.0039,0.6261,0.0621,0.0039
+org.apache.commons.math.linear.AbstractRealMatrix#60,-1,-1,-1,0.0039,0.6261,0.0621,0.0039
+org.apache.commons.math.linear.OpenMapRealMatrix#49,106,105,104,0.0323,0.9351,0.1796,0.0333
+org.apache.commons.math.linear.OpenMapRealMatrix#50,104,1382,1384,0.0323,0.9351,0.1796,0.0333
+org.apache.commons.math.linear.OpenMapRealMatrix#51,1384,1630,98,0.0323,0.9351,0.1796,0.0333
+org.apache.commons.math.linear.OpenMapRealMatrix#52,98,97,13,0.0323,0.9351,0.1796,0.0333
+org.apache.commons.math.linear.OpenMapRealMatrix#53,-1,-1,-1,0.0323,0.9351,0.1796,0.0333
+org.apache.commons.math.linear.RealLinearOperator#52,-1,-1,-1,0.0031,0.5768,0.0561,0.0032

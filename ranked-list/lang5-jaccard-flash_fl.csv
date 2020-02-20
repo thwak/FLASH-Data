@@ -1,0 +1,17 @@
+Line,Score,FlashScore,FixFreq,BlockFreq
+org.apache.commons.lang3.LocaleUtils#99,0.3333333333333333,2.031504630310558,1848,3777
+org.apache.commons.lang3.LocaleUtils#92,0.2,0.4947450254784259,260,2182
+org.apache.commons.lang3.LocaleUtils#89,0.2,0.4617529218821895,372,3345
+org.apache.commons.lang3.LocaleUtils#98,0.2,0.41854332389470017,326,3234
+org.apache.commons.lang3.LocaleUtils#93,0.2,0.3931530382290522,353,3728
+org.apache.commons.lang3.LocaleUtils#96,0.2,0.38182359483848277,342,3719
+org.apache.commons.lang3.LocaleUtils#97,0.2,0.3109024806151216,217,2898
+org.apache.commons.lang3.LocaleUtils#193,0.07692307692307693,2.2469209819699216,7330,13545
+org.apache.commons.lang3.LocaleUtils#218,0.07692307692307693,2.2469209819699216,7330,13545
+org.apache.commons.lang3.LocaleUtils#297,0.07692307692307693,1.1062344077700839,527,1978
+org.apache.commons.lang3.LocaleUtils#296,0.07692307692307693,0.6773741211023935,54,331
+org.apache.commons.lang3.LocaleUtils#295,0.07692307692307693,0.3494049079719519,137,1628
+org.apache.commons.lang3.LocaleUtils#42,-13.0,0.0,0,0
+org.apache.commons.lang3.LocaleUtils#46,-13.0,0.0,0,0
+org.apache.commons.lang3.LocaleUtils#288,-13.0,0.0,0,0
+org.apache.commons.lang3.LocaleUtils#298,-13.0,0.0,0,0
